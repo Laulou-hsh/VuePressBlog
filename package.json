@@ -1,12 +1,13 @@
 {
-  "name": "VuePressBlog",
+  "name": "vuepressblog",
   "version": "1.0.0",
   "description": "VuePress博客Demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "homepage": "https://github.com/githubsgeek/VuePressBlog#readme",
   "devDependencies": {
     "vuepress": "^1.7.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
   }
 }

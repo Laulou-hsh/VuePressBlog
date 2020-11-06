@@ -1,5 +1,6 @@
 ---
 title: JavaScript-c
+navbar: true
 ---
 
 ## 二级标题1

@@ -1,6 +1,6 @@
 ---
-navbar: false
-sidebar: auto
+navbar: true
+sidebar: true
 ---
 ## 关于我
 热爱生活，喜欢爆机

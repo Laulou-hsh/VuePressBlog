@@ -17,3 +17,4 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <!-- # Hello VuePress -->
 ## PWA
 为了演示 PWA 弹窗效果内容。
+注意需要在本地安装vuepress yarn add -D vuepress !!!

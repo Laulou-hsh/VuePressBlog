@@ -44,6 +44,8 @@ module.exports = {
             clientSecret: '168c36a97b2878481f9f062eb5d7729e3e83cd05',
             autoCreateIssue: true,
         },
+        //置顶
+        '@vuepress/back-to-top': true,
     },
     themeConfig: {
         activeHeaderLinks: false,

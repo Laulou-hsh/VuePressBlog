@@ -19,7 +19,6 @@ module.exports = {
         activeHeaderLinks: false,
         lastUpdated: '更新时间', // string | boolean
         logo: '/assets/img/hero.png',
-        subSidebar: 'auto',
         nav: navConf,
         //侧边栏
         // sidebar: [

@@ -1,7 +1,6 @@
 ---
 title: CSS
-navbar: true
-sidebar: true
+sidebar: auto
 ---
 
 ## 你好，CSS

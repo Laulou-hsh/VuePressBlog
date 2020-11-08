@@ -1,7 +1,6 @@
 ---
 title: JavaScript
-navbar: true
-sidebar: true
+subSidebar: false
 ---
 
 ## 你好，JavaScript

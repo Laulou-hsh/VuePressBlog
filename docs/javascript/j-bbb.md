@@ -1,6 +1,5 @@
 ---
 title: JavaScript-b
-navbar: true
 ---
 
 ## 二级标题1

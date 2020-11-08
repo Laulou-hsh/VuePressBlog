@@ -1,6 +1,7 @@
 ---
 title: JavaScript-a
-navbar: true
+subSidebar: false
+sidebar: auto
 ---
 
 ## 二级标题1

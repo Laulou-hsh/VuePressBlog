@@ -1,4 +1,6 @@
 ---
+sidebar: false
+subSidebar: false
 home: true
 # heroImage: /hero.png
 heroText: 欢迎

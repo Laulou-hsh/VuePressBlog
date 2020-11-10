@@ -2,8 +2,8 @@ const headConf = require('./config/headConf');
 const pluginsConf = require('./config/pluginsConf');
 const navConf = require('./config/navConf');
 const sidebarConf = require('./config/sidebarConf');
+const vssueConf = require('./config/vsssueConf');
 const moment = require('moment');
-const vssueConfig = require('./config/vssueConfig');
 moment.locale("zh-cn");
 // .vuepress/config.js
 module.exports = {
@@ -11,7 +11,7 @@ module.exports = {
     description: "捞佬的学习和开发博客",
     head: headConf,
     plugins: pluginsConf,
-    navbar: true,
+    navbar: 'auto',
     theme: 'reco',
     themeConfig: {
         mode: 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
@@ -48,6 +48,6 @@ module.exports = {
         // ],
         sidebar: sidebarConf,
         //vssue评论插件
-        vssueConfig: vssueConfig,
+        vssueConfig: vssueConf,
     }
   }

@@ -20,16 +20,16 @@ module.exports = {
         }
     },
     //vssue评论插件
-    '@vssue/vuepress-plugin-vssue': {
-        // 设置 `platform` 而不是 `api`
-        platform: 'github-v4',
-        // 其他的 Vssue 配置
-        owner: 'githubsgeek',
-        repo: 'VuePressBlog',
-        clientId: secret.clientId,
-        clientSecret: secret.clientSecret,
-        autoCreateIssue: true,
-    },
+    // '@vssue/vuepress-plugin-vssue': {
+    //     // 设置 `platform` 而不是 `api`
+    //     platform: 'github-v4',
+    //     // 其他的 Vssue 配置
+    //     owner: 'githubsgeek',
+    //     repo: 'VuePressBlog',
+    //     clientId: secret.clientId,
+    //     clientSecret: secret.clientSecret,
+    //     autoCreateIssue: true,
+    // },
     //置顶
     '@vuepress/back-to-top': true,
     //Google Analytics

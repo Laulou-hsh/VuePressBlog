@@ -1,10 +1,10 @@
 ---
 navbar: true
 sidebar: true
-title: 关于我3
+title: 关于我4
 ---
 ## 关于我
-热爱生活，喜欢爆机
+热爱生活，喜欢爆机4
 
 ## 一级标题
 

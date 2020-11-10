@@ -50,4 +50,4 @@ module.exports = {
         //vssue评论插件
         vssueConfig: vssueConf,
     }
-  }
+}

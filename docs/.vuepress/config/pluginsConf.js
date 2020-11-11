@@ -37,4 +37,8 @@ module.exports = {
     {
         'ga': secret.ga,
     },
+    //图片缩放
+    '@vuepress/medium-zoom': {
+        selector: 'img.custom',
+    }
 }

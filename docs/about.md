@@ -14,3 +14,7 @@ sidebar: false
 ## 一级标题
 
 ## 追加 Travis CI 自动化部署
+
+<img class="custom" :src="$withBase('/assets/img/favicon.ico')" alt="favicon">
+
+![favicon](/assets/img/favicon.ico)

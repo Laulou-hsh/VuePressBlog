@@ -1,4 +1,12 @@
 module.exports = {
+    '/html/': [
+        {
+            title: 'HTML',
+            path: '/html/',
+            collapsable: false,
+            sidebarDepth: 1,
+        }
+    ],
     '/css/': [
         {
             title: 'CSS',   // 必要的

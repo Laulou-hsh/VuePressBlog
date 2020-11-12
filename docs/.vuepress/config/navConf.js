@@ -1,6 +1,7 @@
 module.exports = [
     { text: '主页', link: '/' },
         { text: 'About', link: '/about/' },
+        { text: 'HTML', link: '/html/' },
         { text: 'CSS', link: '/css/'},
         { text: 'JavaScript', link: '/javascript/'},
         //导航栏

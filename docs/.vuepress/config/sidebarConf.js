@@ -5,6 +5,10 @@ module.exports = {
             path: '/html/',
             collapsable: false,
             sidebarDepth: 1,
+            children: [
+                '/',
+                '/html/',
+            ]
         }
     ],
     '/css/': [

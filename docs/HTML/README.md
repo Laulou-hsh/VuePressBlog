@@ -1,5 +1,6 @@
 ---
 title: HTML
+subSidebar: false
 sidebar: auto
 ---
 ## HTML

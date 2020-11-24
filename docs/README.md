@@ -27,3 +27,23 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/html/" style="text-decoration:none;">
+    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+        <div class="feature">
+            <h2>
+                HTML
+            </h2>
+            <p>HTML称为超文本标记语言，是一种标识性的语言。</p>
+        </div>
+    </div>
+</a>
+<a href="/css/" style="text-decoration:none;">
+    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+        <div class="feature">
+            <h2>
+                CSS
+            </h2>
+            <p>CSS 指层叠样式表 (Cascading Style Sheets)</p>
+        </div>
+    </div>
+</a>

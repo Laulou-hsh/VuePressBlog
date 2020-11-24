@@ -22,4 +22,5 @@ module.exports = [
     },
     { text: '其他拓展', link: 'https://google.com' },
     { text: 'About', link: '/about/' },
+    { text: 'Github', link: 'https://github.com/githubsgeek/VuePressBlog' },
 ]

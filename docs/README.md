@@ -27,7 +27,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
-<a href="/html/" style="text-decoration:none;">
+<a href="/html" style="text-decoration:none;">
     <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
         <div class="feature">
             <h2>

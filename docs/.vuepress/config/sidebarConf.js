@@ -1,16 +1,16 @@
 module.exports = {
-    // '/html/': [
-    //     {
-    //         title: 'HTML',
-    //         path: '/html/',
-    //         collapsable: false,
-    //         sidebarDepth: 1,
-    //         children: [
-    //             '/',
-    //             'html-introdution',
-    //         ]
-    //     }
-    // ],
+    '/html/': [
+        {
+            title: 'HTML',
+            path: '/html/',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+                '/',
+                'html-introdution',
+            ]
+        }
+    ],
     '/css/': [
         {
             title: 'CSS',   // 必要的

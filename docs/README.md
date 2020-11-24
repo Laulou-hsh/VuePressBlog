@@ -53,7 +53,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         max-width: 60% !important;
     }
     .feature:hover{
-        transform scale: (1.03)!important;
+        transform : scale(1.03)!important;
         color: #3EAF7C !important;
     }
 </style>

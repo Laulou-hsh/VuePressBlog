@@ -1,6 +1,6 @@
 module.exports = [
     { text: 'Home', link: '/' },
-    { text: 'HTML', link: '/html/' },
+    // { text: 'HTML', link: '/html/' },
     { text: 'CSS', link: '/css/'},
     { text: 'JavaScript', link: '/javascript/'},
     //导航栏

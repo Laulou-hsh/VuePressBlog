@@ -7,7 +7,6 @@ module.exports = {
             sidebarDepth: 1,
             children: [
                 '/',
-                '/html/',
             ]
         }
     ],

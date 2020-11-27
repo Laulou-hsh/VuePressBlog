@@ -18,7 +18,7 @@ module.exports = {
         modePicker: true, // 默认 true，false 不显示模式调节按钮，true 则显示
         activeHeaderLinks: false,
         lastUpdated: '更新时间', // string | boolean
-        logo: '/assets/img/hero.png',
+        // logo: '/assets/img/hero.png',
         nav: navConf,
         //侧边栏
         // sidebar: [

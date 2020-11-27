@@ -3,6 +3,7 @@ module.exports = [
     { text: 'HTML', link: '/html/' },
     { text: 'CSS', link: '/css/'},
     { text: 'JavaScript', link: '/javascript/'},
+    { text: '面试', link: '/interview/'},
     //导航栏
     {
         text: 'B站学习',

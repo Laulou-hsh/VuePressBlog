@@ -17,13 +17,24 @@ tagline: Welcome
 footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 ---
 
-<a href="/firstblog" style="text-decoration:none;">
+<!-- <a href="/firstblog" style="text-decoration:none;">
     <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
         <div class="feature">
             <h2>
                 第一篇博客
             </h2>
             <p>第一篇博客测试</p>
+        </div>
+    </div>
+</a> -->
+<a href="/interview/20201127" style="text-decoration:none;">
+    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+        <div class="feature">
+            <h2>
+                <span style="color:red;">[置顶]</span>【面试】764高频前端开发面试问题及答案整理
+            </h2>
+            <p>持续更新中</p>
+            <p>2020年11月27日已更新</p>
         </div>
     </div>
 </a>
@@ -50,10 +61,14 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 
 <style>
     .feature{
-        max-width: 60% !important;
+        padding-top: 10px;
+        padding-left: 20px;
+        max-width: 90% !important;
+        border-radius: 10px;
     }
     .feature:hover{
         transform : scale(1.03)!important;
         color: #3EAF7C !important;
+        box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.2);
     }
 </style>

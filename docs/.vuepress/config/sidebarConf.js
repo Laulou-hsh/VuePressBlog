@@ -48,6 +48,18 @@ module.exports = {
             ]
         },
     ],
+    '/interview/': [
+        {
+            title: '面试题',
+            path: '/interview/',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+                '/',
+                '/interview/20201127',
+            ]  
+        }
+    ],
         // {
         //     title: 'CSS',   // 必要的
         //     path: '/css/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在

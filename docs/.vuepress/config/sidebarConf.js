@@ -57,6 +57,7 @@ module.exports = {
             children: [
                 '/',
                 '/interview/20201127',
+                '/interview/20201201'
             ]  
         }
     ],

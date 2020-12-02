@@ -12,6 +12,7 @@ module.exports = [
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['meta', { name: 'baidu-site-verification', content: 'baidu-site-verification" content="code-dUku6JsNiP' }],//<meta name="baidu-site-verification" content="code-dUku6JsNiP" />
     ['script', {}, `
         var _hmt = _hmt || [];
         (function(){

@@ -1,5 +1,5 @@
 module.exports = [
-    ['link', { rel: 'icon', href: 'docs/.vuepress/public/assets/img/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/assets/img/favicon.ico' }],
     ['meta', { name: 'keywords', content: '捞佬', }],
     ['meta', { name: 'keywords', content: 'vuepress 介绍，vuepress 说明', }],
     ['link', { rel: 'manifest', href: 'docs/.vuepress/public/manifest.json' }],

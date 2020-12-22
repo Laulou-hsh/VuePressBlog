@@ -45,6 +45,15 @@ module.exports = {
                 },
                 '/javascript/j-bbb',
                 '/javascript/j-ccc',
+                {
+                    title: '日常笔记',
+                    path: '/javascript/DailyNote/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/javascript/DailyNote/20201223.md'
+                    ]
+                }
             ]
         },
     ],

@@ -28,18 +28,29 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
     </div>
 </a> -->
 <a href="/interview/20201127" style="text-decoration:none;">
-    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+    <div class="features">
         <div class="feature">
             <h2>
                 <span style="color:red;">[置顶]</span>【面试】764高频前端开发面试问题及答案整理
             </h2>
             <p>持续更新中</p>
-            <p>2020年11月27日已更新</p>
+            <p>2020年12月10日已更新</p>
+        </div>
+    </div>
+</a>
+<a href="/javascript/DailyNote" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <h2>
+                JavaScript日常笔记
+            </h2>
+            <p>记录JavaScript技巧和学习笔记</p>
+            <p>2020年12月10日已更新</p>
         </div>
     </div>
 </a>
 <a href="/html" style="text-decoration:none;">
-    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+    <div class="features">
         <div class="feature">
             <h2>
                 HTML
@@ -49,7 +60,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
     </div>
 </a>
 <a href="/css/" style="text-decoration:none;">
-    <div class="features" style="transition: all 0.25s ease-in-out 0.24s; transform: translateY(0px); opacity: 1;">
+    <div class="features" >
         <div class="feature">
             <h2>
                 CSS
@@ -65,6 +76,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         padding-left: 20px;
         max-width: 90% !important;
         border-radius: 10px;
+        transition: all 0.2s ease-in-out !important;
+        transform: translateY(0px); 
+        opacity: 1 !important;
     }
     .feature:hover{
         transform : scale(1.03)!important;

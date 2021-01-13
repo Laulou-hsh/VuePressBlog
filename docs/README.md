@@ -38,6 +38,26 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/interview/20210112/20210112.md" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <h2>
+                面试官：ES6中数组新增了哪些扩展?
+            </h2>
+            <p>2021年1月13日已更新</p>
+        </div>
+    </div>
+</a>
+<a href="/interview/20201201" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <h2>
+                面试官：说说你对vue的理解?
+            </h2>
+            <p>2020年12月01日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

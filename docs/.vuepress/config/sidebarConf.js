@@ -51,7 +51,8 @@ module.exports = {
                     collapsable: true,
                     siderbar: 2,
                     children: [
-                        '/javascript/DailyNote/20201223.md'
+                        '/javascript/DailyNote/20201223.md',
+                        '/javascript/DailyNote/20210115.md',
                     ]
                 }
             ]

@@ -38,6 +38,17 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/javascript/DailyNote" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <h2>
+                JavaScript日常笔记
+            </h2>
+            <p>JavaScript防抖和节流</p>
+            <p>2021年01月15日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/interview/20210112/20210112" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
@@ -58,17 +69,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
-<a href="/javascript/DailyNote" style="text-decoration:none;">
-    <div class="features">
-        <div class="feature">
-            <h2>
-                JavaScript日常笔记
-            </h2>
-            <p>记录JavaScript技巧和学习笔记</p>
-            <p>2020年12月10日已更新</p>
-        </div>
-    </div>
-</a>
+
 <a href="/html" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
@@ -93,11 +94,12 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <style>
     .feature{
         padding-top: 10px;
+        padding-bottom: 10px;
         padding-left: 20px;
         max-width: 90% !important;
         border-radius: 10px;
         transition: all 0.2s ease-in-out !important;
-        transform: translateY(0px); 
+        transform: translateY(0px);
         opacity: 1 !important;
     }
     .feature:hover{

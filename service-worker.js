@@ -27,27 +27,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2ac87b87b637df7076dbceb3b3c6c2de"
+    "revision": "b09741ed9396fd9b0860311b7ad59a48"
   },
   {
     "url": "about.html",
-    "revision": "ad966ea7514c6a4aee364dc5dd553131"
+    "revision": "a6760b10b33ac7ede8f874b3007db566"
   },
   {
     "url": "about1.html",
-    "revision": "2b09ef47d78e0c567796cfd1833f3429"
+    "revision": "3c4fed34c7d6f279b0ad9be3edb9ba0b"
   },
   {
     "url": "about2.html",
-    "revision": "ca5c97f2bb2201e3158ad4b4e5e30889"
+    "revision": "39d2121a5356f05c386a0723337a5815"
   },
   {
     "url": "about3.html",
-    "revision": "81deff9e4e25aacf71ae0a9388b18243"
+    "revision": "d34f55a9665725a344ad142208232753"
   },
   {
     "url": "about4.html",
-    "revision": "773fb5444665acd7ed8883fa741dfcb7"
+    "revision": "e96e39d1680d2634f841ff28d793e9c6"
   },
   {
     "url": "assets/css/0.styles.c38d2f89.css",
@@ -150,8 +150,8 @@ self.__precacheManifest = [
     "revision": "6674701402aacaba6d53155d301b1886"
   },
   {
-    "url": "assets/js/30.5d417f89.js",
-    "revision": "b5c2fc14c4163adeeb8fcfb507d920a0"
+    "url": "assets/js/30.ac81c560.js",
+    "revision": "24b1f0723769a4869ce1a76f7b595bd2"
   },
   {
     "url": "assets/js/31.3c051478.js",
@@ -222,112 +222,112 @@ self.__precacheManifest = [
     "revision": "5395da8b9f2232129a1cdb8b949f66b7"
   },
   {
-    "url": "assets/js/app.535087e6.js",
-    "revision": "c2dced2966376a3375ac3f0d032edbc2"
+    "url": "assets/js/app.87c467a8.js",
+    "revision": "14c40235569c3ba5e802e23580ab28d3"
   },
   {
     "url": "categories/index.html",
-    "revision": "9c292c48664c23a7f1c6e1ac70dc3ae9"
+    "revision": "670a3fc212686c000208969e09dbced2"
   },
   {
     "url": "countup.html",
-    "revision": "ce2807dd78e507e26ab0faee9f829b0d"
+    "revision": "944c23b9ebc644fd9baa3d0645ad29a0"
   },
   {
     "url": "css/c-aaa.html",
-    "revision": "7244b7ad1bc7bee611824f27eda10bf6"
+    "revision": "55baebbcdd0f2afeff438d9c931cc75b"
   },
   {
     "url": "css/c-bbb.html",
-    "revision": "7eb6d658247ea91a6397439d6b652b15"
+    "revision": "e4f0fe51adfb7855096edd9bb030cf35"
   },
   {
     "url": "css/c-ccc.html",
-    "revision": "a67f0d5e825a6b97bf30ba9abdb521ea"
+    "revision": "1a42107f38bc0e394b81bfa41233e1df"
   },
   {
     "url": "css/index.html",
-    "revision": "21c33a2b709446927dfd502254ddf362"
+    "revision": "03715c0219835494cddd550d76853d39"
   },
   {
     "url": "firstblog.html",
-    "revision": "1c6c40f0e45f4352655942197d3e915c"
+    "revision": "7b17a6feb8e54083d1234a28fd3ffa2c"
   },
   {
     "url": "html/html-introdution.html",
-    "revision": "7dc8dec79f770ef4ba77a8895c9b3b59"
+    "revision": "1655e2be9179f0d3d4ca22c063dba6af"
   },
   {
     "url": "html/index.html",
-    "revision": "dc77cbf422e1c264cd34d9fe33ac0c26"
+    "revision": "e3769759253731831ca09f29653e21d5"
   },
   {
     "url": "index.html",
-    "revision": "685375127fb71e32b73739bcce7f3993"
+    "revision": "d2009f992a17e7376de300d0044ddef0"
   },
   {
     "url": "interview/20201127.html",
-    "revision": "b69641a53c4a7472229700a8536434d2"
+    "revision": "58709a833a9a948a81d69387c3e35189"
   },
   {
     "url": "interview/20201201.html",
-    "revision": "a2e0d7f8e949dc836b2d3b384423dd70"
+    "revision": "bfc48d153e62bcd994849abdc5ffc6cb"
   },
   {
     "url": "interview/20210112/20210112.html",
-    "revision": "2c7e0222775d563eb66e65a774f11891"
+    "revision": "cad89b663c9953aacdfa87c45361615b"
   },
   {
     "url": "interview/index.html",
-    "revision": "509b0a2fa524f7c738941398228cfa28"
+    "revision": "58754a08262cfb05e36ec0a0c3f7782d"
   },
   {
     "url": "javascript/DailyNote/20201223.html",
-    "revision": "42cc29f7cc650822b2b89d765fdc4345"
+    "revision": "377c82a24830d12ab683f5314fddef31"
   },
   {
     "url": "javascript/DailyNote/index.html",
-    "revision": "20bbdba85418273ae828cc31adfa14b7"
+    "revision": "b1e4ec96d283ee53158668c92420ddb5"
   },
   {
     "url": "javascript/index.html",
-    "revision": "ce415101ffe58611998c676abd21c89b"
+    "revision": "4c3da2d355096aad74dc11bed51d4ea8"
   },
   {
     "url": "javascript/j-aaa.html",
-    "revision": "8e169ab37999053e0a92e1298147e81d"
+    "revision": "68fc87c1b2992bfae3bc52d8794582e3"
   },
   {
     "url": "javascript/j-aaa/index.html",
-    "revision": "772b97268051be4f219c3841f7d4f29d"
+    "revision": "ebb43fcff3e5cf4c0439f380c587893d"
   },
   {
     "url": "javascript/j-aaa/j-aaa.html",
-    "revision": "04f8be05aa625153c5fbd93b99b63ffe"
+    "revision": "0b8bd6f9087e0e37c4b17bbb85d7f8df"
   },
   {
     "url": "javascript/j-bbb.html",
-    "revision": "197914da27c3240f81ca60391b01cbde"
+    "revision": "30a0f0216a75d920fc8fe6c12d21d95a"
   },
   {
     "url": "javascript/j-ccc.html",
-    "revision": "82e41cc6b42e320915a8c57ef11a8564"
+    "revision": "3336c32def9eb84e693e75031e6cdf41"
   },
   {
     "url": "LICENSE.html",
-    "revision": "1b527a4f38e014e148b6886b6145dbe7"
+    "revision": "5712ac968d710757de8350a3f8795539"
   },
   {
     "url": "quanxue.html",
-    "revision": "730d714033839709c6f37aee8ccbd0dd"
+    "revision": "0646f28ebd7e142bd207dc5f4c269ae9"
   },
   {
     "url": "tag/index.html",
-    "revision": "13eb27f0580b25268c78a483325b107a"
+    "revision": "51c8a8cbc0f6943f78c495cd040531f7"
   },
   {
     "url": "timeline/index.html",
-    "revision": "fbb13a98cbb93d1045ec0923343a1977"
+    "revision": "3118b08d214af9f69546aa1353c18e99"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

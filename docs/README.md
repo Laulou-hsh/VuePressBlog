@@ -52,7 +52,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
     <div class="features">
         <div class="feature">
             <h2>
-                面试官：说说你对vue的理解?
+                面试官：说说你对Vue的理解?
             </h2>
             <p>2020年12月01日已更新</p>
         </div>
@@ -104,5 +104,8 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         transform : scale(1.03)!important;
         color: #3EAF7C !important;
         box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.2);
+    }
+    .go-to-top {
+        display: block !important;
     }
 </style>

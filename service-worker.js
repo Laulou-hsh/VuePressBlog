@@ -323,7 +323,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "c1f05a73f49727e935ce1e1fee1d0a50"
+    "revision": "2c75ded267796a3ba79d6faebbe49b3b"
   },
   {
     "url": "timeline/index.html",

@@ -2,7 +2,12 @@ module.exports = [
     { text: 'Home', link: '/' },
     { text: 'HTML', link: '/html/' },
     { text: 'CSS', link: '/css/'},
-    { text: 'JavaScript', link: '/javascript/'},
+    {   text: 'JavaScript',
+        items: [
+            {text: 'JS介绍和基础', link: '/javascript/'},
+            {text: 'JS学习笔记', link: '/javascript/DailyNote/'},
+        ]
+    },
     { text: '面试', link: '/interview/'},
     //导航栏
     {

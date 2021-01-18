@@ -59,7 +59,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
-<a href="/interview/20201201" style="text-decoration:none;">
+<a href="/interview/VueSeries/20201201" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
             <h2>

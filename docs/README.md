@@ -49,7 +49,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
-<a href="/interview/20210112/20210112" style="text-decoration:none;">
+<a href="/interview/ES6/20210112" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
             <h2>

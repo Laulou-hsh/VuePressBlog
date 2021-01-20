@@ -76,8 +76,15 @@ module.exports = {
                         '/interview/VueSeries/20201201',
                     ]
                 },
-                
-                '/interview/20210112/20210112'
+                {
+                    title: 'ES6系列',
+                    path: '/interview/ES6/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/interview/VueSeries/20210112',
+                    ]
+                },
             ]  
         }
     ],

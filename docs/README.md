@@ -38,6 +38,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/interview/ES6/20210120" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <h2>
+                面试官：说说var、let、const之间的区
+            </h2>
+            <p>2021年1月20日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

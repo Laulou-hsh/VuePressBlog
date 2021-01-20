@@ -82,7 +82,8 @@ module.exports = {
                     collapsable: true,
                     siderbar: 2,
                     children: [
-                        '/interview/VueSeries/20210112',
+                        '/interview/ES6/20210112',
+                        '/interview/ES6/20210120',
                     ]
                 },
             ]  

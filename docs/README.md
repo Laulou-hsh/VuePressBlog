@@ -30,9 +30,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/interview/20201127" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 <span style="color:red;">[置顶]</span>【面试】764高频前端开发面试问题及答案整理
-            </h2>
+            </p>
             <p>持续更新中</p>
             <p>2020年12月10日已更新</p>
         </div>
@@ -41,9 +41,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/interview/ES6/20210120" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
-                面试官：说说var、let、const之间的区
-            </h2>
+            <p class="index_title">
+                面试官：说说var、let、const之间的区别
+            </p>
             <p>2021年1月20日已更新</p>
         </div>
     </div>
@@ -51,9 +51,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/javascript/DailyNote" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 JavaScript日常笔记
-            </h2>
+            </p>
             <p>JavaScript防抖和节流</p>
             <p>2021年01月15日已更新</p>
         </div>
@@ -62,9 +62,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/interview/ES6/20210112" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 面试官：ES6中数组新增了哪些扩展?
-            </h2>
+            </p>
             <p>2021年1月13日已更新</p>
         </div>
     </div>
@@ -72,9 +72,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/interview/VueSeries/20201201" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 面试官：说说你对Vue的理解?
-            </h2>
+            </p>
             <p>2020年12月01日已更新</p>
         </div>
     </div>
@@ -83,9 +83,9 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/html" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 HTML
-            </h2>
+            </p>
             <p>HTML称为超文本标记语言，是一种标识性的语言。</p>
         </div>
     </div>
@@ -93,18 +93,23 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
 <a href="/css/" style="text-decoration:none;">
     <div class="features" >
         <div class="feature">
-            <h2>
+            <p class="index_title">
                 CSS
-            </h2>
+            </p>
             <p>CSS 指层叠样式表 (Cascading Style Sheets)</p>
         </div>
     </div>
 </a>
 
 <style>
+    .index_title{
+        font-size: 1.25rem;
+        font-weight: bolder;
+    }
     .feature{
-        padding-top: 10px;
-        padding-bottom: 10px;
+        font-size: 14px;
+        padding-top: 0.625rem;
+        padding-bottom: 0.625rem;
         padding-left: 20px;
         max-width: 90% !important;
         border-radius: 10px;

@@ -38,6 +38,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/interview/VueSeries/20210125" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官：说说你对Vue生命周期的理解?
+            </p>
+            <p>2021年01月25日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/interview/ES6/20210120" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

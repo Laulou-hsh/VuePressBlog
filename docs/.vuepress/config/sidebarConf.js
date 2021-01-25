@@ -74,6 +74,7 @@ module.exports = {
                     siderbar: 2,
                     children: [
                         '/interview/VueSeries/20201201',
+                        '/interview/VueSeries/20210125',
                     ]
                 },
                 {

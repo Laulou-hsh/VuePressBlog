@@ -75,6 +75,7 @@ module.exports = {
                     children: [
                         '/interview/VueSeries/20201201',
                         '/interview/VueSeries/20210125',
+                        '/interview/VueSeries/20210126',
                     ]
                 },
                 {

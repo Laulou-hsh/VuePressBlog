@@ -38,13 +38,23 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/javascript/DailyNote/20210220" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                JavaScript正则表达式
+            </p>
+            <p>2021年02月20日的更新</p>
+        </div>
+    </div>
+</a>
 <a href="/interview/VueSeries/20210126" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
             <p class="index_title">
                 面试官：说说你对SPA（单页应用）的理解?
             </p>
-            <p>2021年01月26日已更新</p>
+            <p>2021年01月26日的更新</p>
         </div>
     </div>
 </a>
@@ -54,7 +64,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
             <p class="index_title">
                 面试官：说说你对Vue生命周期的理解?
             </p>
-            <p>2021年01月25日已更新</p>
+            <p>2021年01月25日的更新</p>
         </div>
     </div>
 </a>
@@ -64,7 +74,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
             <p class="index_title">
                 面试官：说说var、let、const之间的区别
             </p>
-            <p>2021年1月20日已更新</p>
+            <p>2021年1月20日的更新</p>
         </div>
     </div>
 </a>
@@ -75,7 +85,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
                 JavaScript日常笔记
             </p>
             <p>JavaScript防抖和节流</p>
-            <p>2021年01月15日已更新</p>
+            <p>2021年01月15日的更新</p>
         </div>
     </div>
 </a>
@@ -85,7 +95,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
             <p class="index_title">
                 面试官：ES6中数组新增了哪些扩展?
             </p>
-            <p>2021年1月13日已更新</p>
+            <p>2021年1月13日的更新</p>
         </div>
     </div>
 </a>
@@ -95,7 +105,7 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
             <p class="index_title">
                 面试官：说说你对Vue的理解?
             </p>
-            <p>2020年12月01日已更新</p>
+            <p>2020年12月01日的更新</p>
         </div>
     </div>
 </a>

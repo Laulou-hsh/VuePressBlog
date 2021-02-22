@@ -38,6 +38,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/interview/JavaScript/20210222" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官：Javscript数组的常用方法有哪些？
+            </p>
+            <p>2021年02月22日的更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote/20210220" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

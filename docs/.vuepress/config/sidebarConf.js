@@ -89,6 +89,15 @@ module.exports = {
                         '/interview/ES6/20210120',
                     ]
                 },
+                {
+                    title: 'JavaScript系列',
+                    path: '/interview/Javascript/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/interview/JavaScript/20210222',
+                    ]
+                },
             ]  
         }
     ],

@@ -7,8 +7,14 @@ sidebar: auto
         display: block !important;
     }
 </style>
-* 2020年12月23日
-  > [8个常用的JavaScript数组方法](20201223.md)
+* 2021年03月02日
+> [JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](20210302.md)
+
+* 2021年02月20日
+> [JavaScript正则表达式](20210220.md)
 
 * 2021年01月15日
-  > [JavaScript防抖和节流](20210115.md)
+> [JavaScript防抖和节流](20210115.md)
+
+* 2020年12月23日
+> [8个常用的JavaScript数组方法](20201223.md)

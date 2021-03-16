@@ -55,6 +55,7 @@ module.exports = {
                         '/javascript/DailyNote/20210115.md',
                         '/javascript/DailyNote/20210220.md',
                         '/javascript/DailyNote/20210302.md',
+                        '/javascript/DailyNote/20210316.md',
                     ]
                 }
             ]

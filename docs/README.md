@@ -38,6 +38,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/interview/ES6/20210325" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官问：Promise.all 使用、原理实现及错误处理
+            </p>
+            <p>2021年3月25日的更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote/20210316" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
@@ -136,27 +146,6 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
                 面试官：说说你对Vue的理解?
             </p>
             <p>2020年12月01日的更新</p>
-        </div>
-    </div>
-</a>
-
-<a href="/html" style="text-decoration:none;">
-    <div class="features">
-        <div class="feature">
-            <p class="index_title">
-                HTML
-            </p>
-            <p>HTML称为超文本标记语言，是一种标识性的语言。</p>
-        </div>
-    </div>
-</a>
-<a href="/css/" style="text-decoration:none;">
-    <div class="features" >
-        <div class="feature">
-            <p class="index_title">
-                CSS
-            </p>
-            <p>CSS 指层叠样式表 (Cascading Style Sheets)</p>
         </div>
     </div>
 </a>

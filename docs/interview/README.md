@@ -7,6 +7,8 @@ sidebar: auto
         display: block !important;
     }
 </style>
+* 2021年03月25日
+  > [面试官问：Promise.all 使用、原理实现及错误处理](20210325.md)
 * 2021年01月25日
   > [面试官：说说你对Vue生命周期的理解?](20210125.md)
 * 202年01月12日

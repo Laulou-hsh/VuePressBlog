@@ -7,6 +7,8 @@ sidebar: auto
         display: block !important;
     }
 </style>
+* 2021年04月19日
+  > [哔哩哔哩：JS 异步笔试题](20210419.md)
 * 2021年03月25日
   > [面试官问：Promise.all 使用、原理实现及错误处理](20210325.md)
 * 2021年01月25日

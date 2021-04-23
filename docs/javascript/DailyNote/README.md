@@ -7,7 +7,10 @@ sidebar: auto
         display: block !important;
     }
 </style>
-* 2021年03月02日
+* 2021年04月23日
+> [字节：如何模拟实现 new 操作符](20210423.md)
+
+* 2021年03月16日
 > [常用的前端JavaScript方法封装](20210316.md)
 
 * 2021年03月02日

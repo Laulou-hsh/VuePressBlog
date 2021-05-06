@@ -43,8 +43,6 @@ module.exports = {
                         '/javascript/j-aaa/j-aaa.md',
                     ],
                 },
-                '/javascript/j-bbb',
-                '/javascript/j-ccc',
                 {
                     title: '日常笔记',
                     path: '/javascript/DailyNote/',
@@ -58,7 +56,16 @@ module.exports = {
                         '/javascript/DailyNote/20210316.md',
                         '/javascript/DailyNote/20210423.md',
                     ]
-                }
+                },
+                {
+                    title: 'JavaScript算法',
+                    path: '/javascript/algorithm/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/javascript/algorithm/01_bubbleSort.md',
+                    ]
+                },
             ]
         },
     ],

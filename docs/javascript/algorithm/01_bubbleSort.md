@@ -8,7 +8,7 @@ sidebar: auto
     }
 </style>
 
-## 2021年03月16日的更新
+## 2021年05月07日的更新
 >本文转载和摘抄于[十大经典排序算法-冒泡排序](https://sort.hust.cc/1.bubblesort)，著作权属原作者[hustcc](https://github.com/hustcc)所有，本人除了学习和参考之外，不对此进行任何商业行为，且如有侵权必删。
 
 ## 冒泡排序
@@ -38,9 +38,9 @@ sidebar: auto
 ```JavaScript
 // 声明一个数组
 let arr = [3,44,38,5,47,15,36,26,27,2,46,4,19,50,48];
-// 两个for循环方法
 function bubbleSort(arr) {
     let len = arr.length;
+    // 两个for循环方法
     for (var i = 0; i < len - 1; i++) {
         for (var j = 0; j < len - 1 - i; j++) {
             if (arr[j] > arr[j+1]) {        // 相邻元素两两对比

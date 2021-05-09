@@ -64,6 +64,7 @@ module.exports = {
                     siderbar: 2,
                     children: [
                         '/javascript/algorithm/01_bubbleSort.md',
+                        '/javascript/algorithm/02_selectionSort.md',
                     ]
                 },
             ]

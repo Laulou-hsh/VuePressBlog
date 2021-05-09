@@ -38,13 +38,23 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a>
+<a href="/javascript/algorithm/02_selectionSort" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                十大经典排序算法-选择排序
+            </p>
+            <p>2021年5月9日的更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/algorithm/01_bubbleSort" style="text-decoration:none;">
     <div class="features">
         <div class="feature">
             <p class="index_title">
                 十大经典排序算法-冒泡排序
             </p>
-            <p>2021年5月6日的更新</p>
+            <p>2021年5月7日的更新</p>
         </div>
     </div>
 </a>

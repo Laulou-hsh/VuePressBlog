@@ -9,7 +9,7 @@ sidebar: auto
 </style>
 
 ## 2021年05月09日的更新
->本文转载和摘抄于[十大经典排序算法-冒泡排序](https://sort.hust.cc/2.selectionsort)，著作权属原作者[hustcc](https://github.com/hustcc)所有，本人除了学习和参考之外，不对此进行任何商业行为，且如有侵权必删。
+>本文转载和摘抄于[十大经典排序算法-选择排序](https://sort.hust.cc/2.selectionsort)，著作权属原作者[hustcc](https://github.com/hustcc)所有，本人除了学习和参考之外，不对此进行任何商业行为，且如有侵权必删。
 
 ## 选择排序
 ---

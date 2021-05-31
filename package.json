@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/githubsgeek/VuePressBlog.git"
+    "url": "git+https://github.com/Laulou-hsh/VuePressBlog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/githubsgeek/VuePressBlog/issues"
+    "url": "https://github.com/Laulou-hsh/VuePressBlog/issues"
   },
-  "homepage": "https://github.com/githubsgeek/VuePressBlog#readme",
+  "homepage": "https://github.com/Laulou-hsh/VuePressBlog#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-google-analytics": "^1.7.1",

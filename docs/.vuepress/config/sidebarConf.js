@@ -20,8 +20,6 @@ module.exports = {
             children: [
                 '/',
                 '/css/c-aaa',
-                '/css/c-bbb',
-                '/css/c-ccc',
             ]
         }
     ],
@@ -33,16 +31,6 @@ module.exports = {
             sidebarDepth: 2,    // 可选的, 默认值是 1
             children: [
                 '/',
-                '/javascript/j-aaa',
-                {
-                    title: 'Javascript',   // 必要的
-                    path: '/javascript/j-aaa/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
-                    collapsable: true, // 可选的, 默认值是 true,
-                    sidebarDepth: 2,  
-                    children: [
-                        '/javascript/j-aaa/j-aaa.md',
-                    ],
-                },
                 {
                     title: '日常笔记',
                     path: '/javascript/DailyNote/',
@@ -109,6 +97,15 @@ module.exports = {
                     siderbar: 2,
                     children: [
                         '/interview/JavaScript/20210222',
+                    ]
+                },
+                {
+                    title: 'Node.js系列',
+                    path: '/interview/Nodejs/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/interview/Nodejs/20210605',
                     ]
                 },
             ]  

@@ -7,6 +7,7 @@ module.exports = [
             {text: 'JS介绍和基础', link: '/javascript/'},
             {text: 'JS学习笔记', link: '/javascript/DailyNote/'},
             {text: 'JS算法', link: '/javascript/algorithm/'},
+
         ]
     },
     { text: '面试', link: '/interview/'},

@@ -27,6 +27,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a> -->
+<a href="/interview/ES6/20210613" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官：你是怎么理解ES6中Proxy的？使用场景?
+            </p>
+            <p>2021年6月13日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/interview/Nodejs/20210605" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

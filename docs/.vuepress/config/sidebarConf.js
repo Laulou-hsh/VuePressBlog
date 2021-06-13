@@ -84,6 +84,7 @@ module.exports = {
                     collapsable: true,
                     siderbar: 2,
                     children: [
+                        '/interview/ES6/20210613',
                         '/interview/ES6/20210419',
                         '/interview/ES6/20210325',
                         '/interview/ES6/20210112',

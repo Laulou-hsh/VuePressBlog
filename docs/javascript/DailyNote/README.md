@@ -7,6 +7,9 @@ sidebar: auto
         display: block !important;
     }
 </style>
+* 2021年06月18日
+> [理解JS闭包9大使用场景](20210618.md)
+> 
 * 2021年04月23日
 > [字节：如何模拟实现 new 操作符](20210423.md)
 

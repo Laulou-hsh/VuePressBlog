@@ -39,9 +39,12 @@ function selectionSort(arr) {
                 minIndex = j;                 // 将最小数的索引保存
             }
         }
-        temp = arr[i];
-        arr[i] = arr[minIndex];
+        // ES5
+        temp = arr[index];
+        arr[index] = arr[minIndex];
         arr[minIndex] = temp;
+        // ES6
+        // [arr[index], arr[minIndex]] = [arr[minIndex], arr[index]];
     }
 
     // forEach方法
@@ -52,9 +55,12 @@ function selectionSort(arr) {
                 minIndex = j;                 // 将最小数的索引保存
             }
         }
+        // ES5
         temp = arr[index];
         arr[index] = arr[minIndex];
         arr[minIndex] = temp;
+        // ES6
+        // [arr[index], arr[minIndex]] = [arr[minIndex], arr[index]];
     });
     return arr;
 }

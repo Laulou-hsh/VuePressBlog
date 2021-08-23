@@ -44,9 +44,12 @@ function bubbleSort(arr) {
     for (var i = 0; i < len - 1; i++) {
         for (var j = 0; j < len - 1 - i; j++) {
             if (arr[j] > arr[j+1]) {        // 相邻元素两两对比
+                // ES5
                 var temp = arr[j+1];        // 元素交换
                 arr[j+1] = arr[j];
                 arr[j] = temp;
+                // ES6
+                // [arr[j+1], ar[j]] = [arr[j], arr[j+1]];
             }
         }
     }
@@ -59,9 +62,12 @@ function bubbleSort(arr) {
     arr.forEach(() => {
         for(let i = 0; i < len; i++){
             if(arr[i] > arr[i+1]){
+                // ES5
                 let temp = arr[i+1];
                 arr[i+1] = arr[i];
                 arr[i] = temp;
+                // ES6
+                // [arr[i+1], arr[i]] = [arr[i], arr[i+1]];
             }
         }
     });

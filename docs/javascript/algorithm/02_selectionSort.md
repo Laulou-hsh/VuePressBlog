@@ -20,9 +20,13 @@ sidebar: auto
 2. 再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。
 3. 重复第二步，直到所有元素均排序完毕。
 
+---
+
 ### 2. 动图演示
 <img class="custom" :src="$withBase('/assets/img/selectionSort/selectionSort.gif')" alt="img" style="margin:0 auto; display:block;">
 <div style="color: gray; margin: 0px auto; text-align: center;">动图演示</div>
+
+---
 
 ### 3. JavaScript代码
 ```JavaScript

@@ -27,6 +27,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a> -->
+<a href="/javascript/algorithm/03_insertionSort" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                十大经典排序算法-插入排序
+            </p>
+            <p>2021年9月1日的更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote/20210823" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

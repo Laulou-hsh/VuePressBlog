@@ -57,6 +57,7 @@ module.exports = {
                     children: [
                         '/javascript/algorithm/01_bubbleSort.md',
                         '/javascript/algorithm/02_selectionSort.md',
+                        '/javascript/algorithm/03_insertionSort.md',
                     ]
                 },
             ]

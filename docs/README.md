@@ -27,6 +27,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a> -->
+<a href="/interview/TypeScript/20210903" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？
+            </p>
+            <p>2021年9月3日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/algorithm/03_insertionSort" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

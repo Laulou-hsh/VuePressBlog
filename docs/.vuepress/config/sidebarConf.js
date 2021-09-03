@@ -114,6 +114,15 @@ module.exports = {
                         '/interview/Nodejs/20210605',
                     ]
                 },
+                {
+                    title: 'TypeScript系列',
+                    path: '/interview/TypeScript/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/interview/TypeScript/20210903',
+                    ]
+                },
             ]  
         }
     ],

@@ -27,6 +27,16 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a> -->
+<a href="/javascript/DailyNote/20211011" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                20 个杀手级 JavaScript 单行代码
+            </p>
+            <p>2021年10月11日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/interview/TypeScript/20210903" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

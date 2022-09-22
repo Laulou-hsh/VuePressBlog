@@ -20,9 +20,13 @@ sidebar: auto
 2. 再从剩余未排序元素中继续寻找最小（大）元素，然后放到已排序序列的末尾。
 3. 重复第二步，直到所有元素均排序完毕。
 
+---
+
 ### 2. 动图演示
 <img class="custom" :src="$withBase('/assets/img/selectionSort/selectionSort.gif')" alt="img" style="margin:0 auto; display:block;">
 <div style="color: gray; margin: 0px auto; text-align: center;">动图演示</div>
+
+---
 
 ### 3. JavaScript代码
 ```JavaScript
@@ -39,9 +43,12 @@ function selectionSort(arr) {
                 minIndex = j;                 // 将最小数的索引保存
             }
         }
-        temp = arr[i];
-        arr[i] = arr[minIndex];
+        // ES5
+        temp = arr[index];
+        arr[index] = arr[minIndex];
         arr[minIndex] = temp;
+        // ES6
+        // [arr[index], arr[minIndex]] = [arr[minIndex], arr[index]];
     }
 
     // forEach方法
@@ -52,9 +59,12 @@ function selectionSort(arr) {
                 minIndex = j;                 // 将最小数的索引保存
             }
         }
+        // ES5
         temp = arr[index];
         arr[index] = arr[minIndex];
         arr[minIndex] = temp;
+        // ES6
+        // [arr[index], arr[minIndex]] = [arr[minIndex], arr[index]];
     });
     return arr;
 }

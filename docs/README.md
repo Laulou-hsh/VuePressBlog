@@ -27,6 +27,56 @@ footer: MIT Licensed | Copyright © 2020-present Sihao Huang
         </div>
     </div>
 </a> -->
+<a href="/javascript/DailyNote/20211011" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                20 个杀手级 JavaScript 单行代码
+            </p>
+            <p>2021年10月11日已更新</p>
+        </div>
+    </div>
+</a>
+<a href="/interview/TypeScript/20210903" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                面试官：说说你对 TypeScript 的理解？与 JavaScript 的区别？
+            </p>
+            <p>2021年9月3日已更新</p>
+        </div>
+    </div>
+</a>
+<a href="/javascript/algorithm/03_insertionSort" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                十大经典排序算法-插入排序
+            </p>
+            <p>2021年9月1日的更新</p>
+        </div>
+    </div>
+</a>
+<a href="/javascript/DailyNote/20210823" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                20个简洁的 JS 代码片段
+            </p>
+            <p>2021年8月23日已更新</p>
+        </div>
+    </div>
+</a>
+<a href="/css/20210803" style="text-decoration:none;">
+    <div class="features">
+        <div class="feature">
+            <p class="index_title">
+                能用CSS实现的就不用麻烦JavaScript
+            </p>
+            <p>2021年8月3日已更新</p>
+        </div>
+    </div>
+</a>
 <a href="/javascript/DailyNote/20210703" style="text-decoration:none;">
     <div class="features">
         <div class="feature">

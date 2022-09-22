@@ -20,6 +20,7 @@ module.exports = {
             children: [
                 '/',
                 '/css/c-aaa',
+                '/css/20210803',
             ]
         }
     ],
@@ -45,6 +46,8 @@ module.exports = {
                         '/javascript/DailyNote/20210423.md',
                         '/javascript/DailyNote/20210618.md',
                         '/javascript/DailyNote/20210703.md',
+                        '/javascript/DailyNote/20210823.md',
+                        '/javascript/DailyNote/20211011.md',
                     ]
                 },
                 {
@@ -55,6 +58,7 @@ module.exports = {
                     children: [
                         '/javascript/algorithm/01_bubbleSort.md',
                         '/javascript/algorithm/02_selectionSort.md',
+                        '/javascript/algorithm/03_insertionSort.md',
                     ]
                 },
             ]
@@ -109,6 +113,15 @@ module.exports = {
                     siderbar: 2,
                     children: [
                         '/interview/Nodejs/20210605',
+                    ]
+                },
+                {
+                    title: 'TypeScript系列',
+                    path: '/interview/TypeScript/',
+                    collapsable: true,
+                    siderbar: 2,
+                    children: [
+                        '/interview/TypeScript/20210903',
                     ]
                 },
             ]  
